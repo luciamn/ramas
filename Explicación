@@ -1,4 +1,4 @@
-creamos las dos carpetas, creamos el readme, lo añadimos.
-Creamos la rama1 en carpetacasa, modificamos el readme, cuando lo subimos nos da un fallo pero lo resolvemos escribiendo  git push --set-upstream https://github.com/luciamn/ramas.git rama1, le hemos echo un push.
-Nos vamos a la rama master y modificamos el archivo readme los añadimos,, lo iremos a subir y nos dara un fallo, pero haremos lo mismo que en el paso anterior.
+creamos las dos carpetas, creamos un archivo que lo he llamado readme, lo añadimos.
+Creamos la rama1 en carpetacasa, modificamos el readme, cuando lo subimos nos da un fallo pero lo resolvemos escribiendo  git push --set-upstream https://github.com/luciamn/ramas.git rama1, ahora si nos dejara hacer el push.
+Nos vamos a la rama master y modificamos el archivo readme los añadimos, lo iremos a subir y nos dara un fallo, pero haremos lo mismo que en el paso anterior, escribiendo git push --set-upstream https://github.com/luciamn/ramas.git rama1, y le haremos el push.
 Clonamos el repositorio en carpetainstituto, vemos que tenemos la rama1, nos situamos en la ramam master, y hacemos git merge rama1 y vemos que lo hemos fusionado
